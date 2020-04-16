@@ -16,9 +16,6 @@ html {
 #resume-page {
   background-color: darkgray;
 }
-#hobbies-page {
-  border: 2mm ridge rgba(179, 0, 89, .9);
-}
 header {
   padding-bottom: 2em;
 }
@@ -48,6 +45,10 @@ header {
 }
 #hobbies-page h1 {
   color: #800040;
+}
+#hobby {
+  background-color: 	#ffc6cd;
+  border: 2mm ridge rgba(179, 0, 89, .9);
 }
 #hobby figcaption {
   color: #800040;
