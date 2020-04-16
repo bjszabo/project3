@@ -17,7 +17,6 @@ html {
   background-color: darkgray;
 }
 #hobbies-page {
-  background-color: 	#ffc6cd;
   border: 2mm ridge rgba(179, 0, 89, .9);
 }
 header {
@@ -85,6 +84,7 @@ h1 {
 
 #resume-page h1{
   font-size: 2.5em;
+  padding-top: 1em;
 }
 #resume-page h1,
 #resume-page h2{
